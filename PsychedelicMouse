@@ -1,0 +1,5 @@
+{
+    "issuer":"https://sciauth.org/htcondor-week-2022/PsychedelicMouse",
+    "jwks_uri":"https://sciauth.org/htcondor-week-2022/PsychedelicMouse/oauth2/keys"
+    }
+    
